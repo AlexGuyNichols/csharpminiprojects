@@ -1,0 +1,4 @@
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/trueOrFalse/obj/Debug/netcoreapp3.1/trueOrFalse.csprojAssemblyReference.cache
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/trueOrFalse/obj/Debug/netcoreapp3.1/trueOrFalse.AssemblyInfoInputs.cache
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/trueOrFalse/obj/Debug/netcoreapp3.1/trueOrFalse.AssemblyInfo.cs
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/trueOrFalse/obj/Debug/netcoreapp3.1/trueOrFalse.csproj.CoreCompileInputs.cache
