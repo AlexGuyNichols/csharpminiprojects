@@ -1,0 +1,12 @@
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/bin/Debug/netcoreapp3.1/cesarCipher.deps.json
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/bin/Debug/netcoreapp3.1/cesarCipher.runtimeconfig.json
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/bin/Debug/netcoreapp3.1/cesarCipher.runtimeconfig.dev.json
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/bin/Debug/netcoreapp3.1/cesarCipher.dll
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/bin/Debug/netcoreapp3.1/cesarCipher.pdb
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.csprojAssemblyReference.cache
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.AssemblyInfoInputs.cache
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.AssemblyInfo.cs
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.csproj.CoreCompileInputs.cache
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.dll
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.pdb
+/Users/alexnichols/Documents/Projects/Coding/C#/csharpminiprojects/cesarCipher/obj/Debug/netcoreapp3.1/cesarCipher.genruntimeconfig.cache
