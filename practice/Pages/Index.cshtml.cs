@@ -4,22 +4,18 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
 
-namespace practice.Pages
+namespace MyApp.Namespace
 {
-    public class IndexModel : PageModel
+  public class ProfileModel : PageModel
+  {
+    public void OnGet()
     {
-        private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ILogger<IndexModel> logger)
-        {
-            _logger = logger;
-        }
-
-        public void OnGet()
-        {
-
-        }
+      ViewData["myName"] = "Alex Nichols";
+      ViewData["username"] = "AlexBroskee";
+      ViewData["myOccupation"] = "Codecademy Student";
+      ViewData["myAge"] = 31;
+      ViewData["currentDate"] = "22/07/2024";
     }
+  }
 }
